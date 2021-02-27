@@ -1,0 +1,42 @@
+.btn{
+    background-color: #019160;
+    border-radius: 4px;
+    box-shadow: none;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-size: 13px;
+    padding: 0 24px;
+    text-align: center;
+    line-height: 40px;
+    // min-width: 100px;
+    height: 40px;
+    outline: none;
+    display: block;
+    &--add{
+        i{
+            width: 15px;
+            position: relative;
+            left: -5px;
+        }
+    }
+    &:hover{
+        background-color: #2FBE8E;
+    }
+    &--close{
+        margin: 0 16px;
+        border: none;
+        background-color: #e9ebee;
+        color: #000;
+        &:hover{
+            background-color: #BBBBBB;
+        }
+    }
+    &--delete{
+        margin-right: 16px;
+        background-color: #F65454;
+        &:hover{
+            background-color: #f67254;
+        }
+    }
+}

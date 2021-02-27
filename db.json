@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "FullName": "Trọng Quý",
+      "StudentCode": "MF768",
+      "DateOfBirth": "1999-07-17",
+      "Gender": "1",
+      "PhoneNumber": "0988317051",
+      "Email": "xuandanngungoc@gmail.com",
+      "Address": "Bắc Ninh",
+      "Class": "TA1"
+    },
+    {
+      "id": 3,
+      "FullName": "Nguyễn Thị Xuân ewr",
+      "StudentCode": "MF768",
+      "DateOfBirth": "1999-07-17",
+      "Gender": "1",
+      "PhoneNumber": "0988317051",
+      "Email": "xuandanngungoc@gmail.com",
+      "Address": "Bắc Ninh",
+      "Class": "TA1"
+    },
+    {
+      "FullName": "",
+      "StudentCode": "",
+      "DateOfBirth": "",
+      "Gender": 0,
+      "PhoneNumber": "",
+      "Email": "",
+      "Address": "",
+      "Class": "",
+      "id": 4
+    },
+    {
+      "FullName": "fsd",
+      "StudentCode": "fds",
+      "DateOfBirth": "",
+      "Gender": 0,
+      "PhoneNumber": "fds",
+      "Email": "fds",
+      "Address": "fds",
+      "Class": "fds",
+      "id": 10
+    }
+  ]
+}

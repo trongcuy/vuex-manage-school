@@ -1,0 +1,24 @@
+input, select{
+    border: 1px solid #bbbbbb;
+    border-radius: 4px;
+    outline: none;
+    height: 40px;
+    font-size: 12px;
+    font-family: GoogleSans-Regular;
+    padding-left: 16px;
+    padding-right: 16px;
+    box-sizing: border-box;
+}
+input:focus, select:focus{
+    border-color: #019160;
+    color: #000;
+}
+
+.input-search{
+    padding-left: 40px;
+    background-position-x: 16px;
+    background-position-y: 12px;
+    background-image: url('assets/images/search.png');
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+}
